@@ -2,6 +2,10 @@
 
 An end-to-end AI-powered loan assessment and approval workflow developed using UiPath.
 
+## 🎥 Project Demo
+
+[▶️ Watch the Project Demo](https://drive.google.com/drive/folders/1i1JfAXgUq_hiXaNIFd5qR0eWJ2k0zWVA?usp=sharing)
+
 ## Project Overview
 
 This project automates the process of assessing a loan application, evaluating risk, obtaining manager approval, generating a decision email, and sending the email automatically.
